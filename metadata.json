@@ -1,0 +1,8 @@
+{
+  "name": "Terracotta & Sage Kitchen",
+  "description": "Vibrant modern restaurant web app with interactive 3D dish showcase, animated floating ingredients, live happy hour specials, and custom-styled location finder.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
